@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>GTang.com</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2014-11-29T00:00:00+08:00</updated><entry><title>About</title><link href="/about.html" rel="alternate"></link><updated>2014-11-29T00:00:00+08:00</updated><author><name>gantang</name></author><id>tag:,2014-11-29:about.html</id><summary type="html">&lt;h3&gt;About GTang.com&lt;/h3&gt;
+&lt;p&gt;个人博客，记录平日~~混吃等死~~勤奋科研的生活状态。
+&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;About me&lt;/h3&gt;
+&lt;p&gt;HUST 2009-2013&lt;br&gt;
+NCTU 2013-&lt;br&gt;
+是一个好人。&lt;/p&gt;</summary></entry><entry><title>Article2</title><link href="/article2.html" rel="alternate"></link><updated>2014-11-28T00:00:00+08:00</updated><author><name>gantang</name></author><id>tag:,2014-11-28:article2.html</id><summary type="html">&lt;h3&gt;Hello,&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Why do I love you so much even if you are such a dumb girl?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Love is no reason.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src="https://lh3.googleusercontent.com/-evwIzJQiYl8/VHiOMhbMCjI/AAAAAAAAAJ8/-v7_WobikVo/s2048/nature_window7_europe_wallpapers_1920x1200_43331_12.jpg" weight="500" height="250"&gt;&lt;/p&gt;</summary></entry><entry><title>MouTest</title><link href="/moutest.html" rel="alternate"></link><updated>2014-11-23T00:00:00+08:00</updated><author><name>gantang</name></author><id>tag:,2014-11-23:moutest.html</id><summary type="html">&lt;h1&gt;Mou&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="Mou icon" src="http://25.io/mou/Mou_128.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;Overview&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Mou&lt;/strong&gt;, the missing Markdown editor for &lt;em&gt;web developers&lt;/em&gt;.&lt;/p&gt;</summary></entry></feed>
